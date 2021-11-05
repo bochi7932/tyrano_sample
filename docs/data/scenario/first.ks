@@ -15,9 +15,15 @@
 
 ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
 アキレスは...[l][r]
-*tag_turning
+
 
 [link target=*tag_sleep] →亀を追いかける [endlink][r]
+[link target=*tag_run] →前だけ見て走る [endlink][r]
+[s]
+
+*tag_turning
+
+[link target=*tag_sleep] →亀をもう一度追いかける [endlink][r]
 [link target=*tag_run] →前だけ見て走る [endlink][r]
 [s]
 
@@ -32,7 +38,7 @@
 
 【 BAD END 】[l][cm]
 
-[jump target=*tag\tag_turning]
+[jump target=*tag_turning]
 
 *tag_run
 
@@ -40,7 +46,7 @@
 
 [cm]
 アキレスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、アキレスは疾風の如く亀を追い越した。しかし前しか見ていなかったので目の前の意思に気づかずつまずいて死んでしまった。[r]
+陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、アキレスは疾風の如く亀を追い越した。しかし前しか見ていなかったので目の前の石に気づかずつまずいて死んでしまった。[r]
 
 【 BAD END 2 】[l][cm]
 
