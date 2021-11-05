@@ -14,10 +14,11 @@
 (中略)[l][r]
 
 ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+アキレスは...[l][r]
+*tag_turning
 
 [link target=*tag_sleep] →亀を追いかける [endlink][r]
-[link target=*tag_run] →とにかく走る [endlink][r]
+[link target=*tag_run] →前だけ見て走る [endlink][r]
 [s]
 
 *tag_sleep
@@ -31,16 +32,16 @@
 
 【 BAD END 】[l][cm]
 
-[jump target=*start]
+[jump target=*tag\tag_turning]
 
 *tag_run
 
 [bg storage=run.jpg time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+アキレスは黒い風のように走った。[l][r]
+陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、アキレスは疾風の如く亀を追い越した。しかし前しか見ていなかったので目の前の意思に気づかずつまずいて死んでしまった。[r]
 
-【 GOOD END 】[l][cm]
+【 BAD END 2 】[l][cm]
 
 [jump target=*start]
