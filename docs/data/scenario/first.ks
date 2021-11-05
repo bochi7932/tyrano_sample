@@ -31,7 +31,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=kame.jpg time=500]
 
 亀にはまだ追いつかない。[l][r]
 亀がいたところまで走ったのに[r]
